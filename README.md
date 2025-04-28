@@ -9,4 +9,4 @@ Le but du jeu est de rammasser toutes les pièces du labyrinthe, tout en évitan
 
 Vous êtes prêts ? Alors c'est partis ! 
 
-[étape 1 - Création de la map](https://github.com/g404-code-gaming/Blop/blob/main/1%20-%20Cr%C3%A9ation%20de%20la%20map)
+[étape 1 - Création de la map](https://github.com/g404-code-gaming/Blop/blob/main/1%20-%20Cr%C3%A9ation%20de%20la%20map.md)
