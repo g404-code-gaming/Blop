@@ -21,5 +21,5 @@ Voici la liste des objets qu'il nous faut pour le  jeu.
 
 ## Construction de la carte
 
-Une fois que tu as choisi tout tes objets, tu peut les placer sur la scène pour commencer à construire ton premier niveau. Pour rendre le travail plus facile, utilise la Grille.
+Une fois que tu as choisi tout tes objets, tu peut les placer sur la scène pour commencer à construire ton premier niveau. Pour rendre le travail plus facile, utilise la ![Grille](https://github.com/g404-code-gaming/GDevelop_Cour/blob/main/Grille.md).
 
