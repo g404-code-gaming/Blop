@@ -23,3 +23,8 @@ Voici la liste des objets qu'il nous faut pour le  jeu.
 
 Une fois que tu as choisi tout tes objets, tu peut les placer sur la scène pour commencer à construire ton premier niveau. Pour rendre le travail plus facile, utilise la ![Grille](https://github.com/g404-code-gaming/GDevelop_Cour/blob/main/Grille.md).
 
+Commençons simples ! fait une petite salle avec un couloir : ça fera un bon début. Place dedans quelques pièces et le personnage principal. 
+
+Une fois que c'est fait, nous allons pouvoirs passer aux mouvements de base du personnage : 
+
+
