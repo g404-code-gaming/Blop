@@ -1,2 +1,3 @@
 # Blop
-Un jeu découverte CodeGaming (GDevelop 5) où on incarne un petit personnage qui se déplace dans un labyrinthe pour récupérer des pièces.
+
+![Texte alternatif](https://github.com/g404-code-gaming/Blop/blob/main/Image/Jeu_image_globale.JPG)
