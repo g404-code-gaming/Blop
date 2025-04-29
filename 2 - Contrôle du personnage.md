@@ -10,11 +10,9 @@ Pour commencer, ajoutez une [variable](https://github.com/g404-code-gaming/GDeve
 
 Nous allons également faire une variable **Movable**, qui permet de savoir si notre personnage peut bouger ou non.
 
-(image variable)
+![variable](https://github.com/g404-code-gaming/Blop/blob/main/Image/deplacement_evenement_0.JPG)
 
 Ensuite, allez dans la fenêtre des évènements. Commencez à ajouter des évènements permettant de changer la variable **Direction** en fonction de la touche sur laquelle on appuie. 
-
-(Image pour les évènements)
 
 Une fois que c'est fait, ajoutez les évènements qui déplacent le personnage en fonction de la valeur de sa variable **Direction** : 
   - "Droit" : Le personnage se déplace de 100 sur l'axe X 
@@ -22,7 +20,7 @@ Une fois que c'est fait, ajoutez les évènements qui déplacent le personnage e
   - "Haut" : Le personnage se déplace de -100 sur l'axe Y
   - "Bas" : Le personnage se déplace de 100 sur l'axe Y
 
-(Image pour les évènements) 
+![variable](https://github.com/g404-code-gaming/Blop/blob/main/Image/deplacement_evenement_1.JPG)
 
 Et maintenant, le personnage peut se déplacer grâce aux touches que nous avons choisies ! Lancez l'aperçus pour voir ce que ça donne. 
 
@@ -31,7 +29,7 @@ Et maintenant, le personnage peut se déplacer grâce aux touches que nous avons
 Les personnages traversent les murs ? pas de panique : il faut rajouter des évènements pour empécher le personnage de traverser les murs. 
 Puisque nous voulons que notre personnage ne puisse jamais traverser les murs, il n'y a pas besoin de condition. 
 
-(image pour les évènements : séparer)
+![variable](https://github.com/g404-code-gaming/Blop/blob/main/Image/deplacement_evenement_3.JPG)
 
 Avec tout ça, nous avons un personnage qui peut se déplacer et qui ne traverse pas les murs. Le Labyrinthe prend vie petit à petit. 
 
