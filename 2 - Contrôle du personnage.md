@@ -12,7 +12,7 @@ Nous allons également faire une variable **Movable**, qui permet de savoir si n
 
 ![variable](https://github.com/g404-code-gaming/Blop/blob/main/Image/deplacement_evenement_0.JPG)
 
-Ensuite, allez dans la fenêtre des évènements. Commencez à ajouter des évènements permettant de changer la variable **Direction** en fonction de la touche sur laquelle on appuie. 
+Ensuite, allez dans la fenêtre des [évènements](https://github.com/g404-code-gaming/GDevelop_Cour/blob/main/%C3%A9v%C3%A8nements.md). Commencez à ajouter des évènements permettant de changer la variable **Direction** en fonction de la touche sur laquelle on appuie. 
 
 Une fois que c'est fait, ajoutez les évènements qui déplacent le personnage en fonction de la valeur de sa variable **Direction** : 
   - "Droit" : Le personnage se déplace de 100 sur l'axe X 
@@ -33,3 +33,4 @@ Puisque nous voulons que notre personnage ne puisse jamais traverser les murs, i
 
 Avec tout ça, nous avons un personnage qui peut se déplacer et qui ne traverse pas les murs. Le Labyrinthe prend vie petit à petit. 
 
+[étape suivante : Gestion des pièces et de la fin de partie](https://github.com/g404-code-gaming/Blop/blob/main/3%20-%20Argent)
