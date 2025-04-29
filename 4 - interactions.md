@@ -3,6 +3,7 @@
 Maintenant que nous avons la base du jeu, nous allons ajouter des **éléments d'interaction** pour le rendre plus difficile et plus amusant.
 
 ## Lave et mort du joueur
+
 Ajoutons un moyen de faire perdre le joueur : un **lac de lave** qui le force à recommencer le jeu en cas de contact.
 
 ![image](https://github.com/g404-code-gaming/Blop/blob/main/Image/inter_1.JPG)
@@ -21,19 +22,19 @@ Nous allons ajouter une **porte**. Elle bloque le passage du personnage et ne pe
 
 ![image](https://github.com/g404-code-gaming/Blop/blob/main/Image/inter_3.JPG)
 
-Dans un premier temps, il faut ajouter la porte et la clé à la scène. La porte est un objet qu'il faut placer dans le groupe Bloc.
+Dans un premier temps, il faut ajouter la porte et la clé à la scène. La porte est un objet qu'il faut placer dans le groupe **Bloc**.
 
-Commençons par créer une variable de scène Key qui compte le nombre de clés que possède le joueur :
+Commençons par créer une variable de scène **Key** qui compte le nombre de clés que possède le joueur :
 
 ![image](https://github.com/g404-code-gaming/Blop/blob/main/Image/inter_4.JPG)
 
 Ensuite, ajoutons un texte **TextKey** qui va afficher à l'écran le nombre de clés possédées par le joueur.
 
-Nous pouvons maintenant créer l’événement qui permet de ramasser une clé.
+Nous pouvons maintenant créer l'événement qui permet de ramasser une clé.
 
 ![image](https://github.com/g404-code-gaming/Blop/blob/main/Image/inter_5.JPG)
 
-Maintenant que notre personnage peut ramasser des clés, il nous reste à créer l’événement permettant d’ouvrir la porte si le joueur possède une clé.
+Maintenant que notre personnage peut ramasser des clés, il nous reste à créer l'événement permettant d'ouvrir la porte si le joueur possède une clé.
 
 ![image](https://github.com/g404-code-gaming/Blop/blob/main/Image/inter_6.JPG)
 
@@ -55,4 +56,4 @@ Utilisez le bloc pour condamner un passage, forçant le joueur à le pousser pou
 
 Voilà ! Vous avez ajouté de la lave pour tuer le personnage, ainsi que des portes et des blocs poussables pour augmenter le défi. Blop commence à devenir un vrai jeu !
 
-5 - Finalisation
+[étape 5 - Finalisation](https://github.com/g404-code-gaming/Blop/blob/main/Image/inter_8.JPG)
