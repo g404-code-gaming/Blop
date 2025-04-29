@@ -23,9 +23,9 @@ Lorsque le nombre de pièce sur la scène est égal à 0 : le joueur a remporter
 ## Rammasser et afficher les pièces 
 
 Pour rammasser les pièces, il nous faut un [évènement](https://github.com/g404-code-gaming/GDevelop_Cour/blob/main/%C3%A9v%C3%A8nements.md). Cet évènement se décompose en plusieurs choses : 
-  -Condition : l'évènement se déclenche quand notre personnage entre en collision avec une pièce. 
-  -Action 1 : on supprime la pièce 
-  -Action 2 : on met à jour la variable ArgentMax. 
+  - Condition : l'évènement se déclenche quand notre personnage entre en collision avec une pièce. 
+  - Action 1 : on supprime la pièce 
+  - Action 2 : on met à jour la variable ArgentMax. 
 
   (image évènement) 
 
