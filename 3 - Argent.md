@@ -4,21 +4,21 @@ Dans Blop, il faut ramasser toutes les pièces du niveau pour gagner la partie.
 
 Si ce n'est pas déjà fait, il faut ajouter des pièces dans le jeu. 
 
-(image 1)
+![image](https://github.com/g404-code-gaming/Blop/blob/main/Image/piece_1.JPG)
 
 ##Variables pour compter les pièces
 
 Avant de s'occuper des évènements, nous allons devoir créer une [variables de scène](https://github.com/g404-code-gaming/GDevelop_Cour/blob/main/Variables.md) **ArgentMax**. Il s'agit du nombre de pièce présent dans la scène.
 
-(image variable)
+![image](https://github.com/g404-code-gaming/Blop/blob/main/Image/piece_2.JPG)
 
 Dans les évènements, on va initialiser cette variable : Au lancement de la zone, on la remplis avec le nombre de pièces de la scène grâce à la commande *count()*.
 
-(image au lancement de la scène)
+![image](https://github.com/g404-code-gaming/Blop/blob/main/Image/piece_3.JPG)
 
 Lorsque le nombre de pièce sur la scène est égal à 0 : le joueur a remporter la partie. Pour l'instant, ça fait recommencer le jeu, mais on verra plus tard comment changer de niveaux.
 
-(image fin)
+![image](https://github.com/g404-code-gaming/Blop/blob/main/Image/piece_4.JPG)
 
 ## Rammasser et afficher les pièces 
 
@@ -27,7 +27,7 @@ Pour rammasser les pièces, il nous faut un [évènement](https://github.com/g40
   - Action 1 : on supprime la pièce 
   - Action 2 : on met à jour la variable ArgentMax. 
 
-  (image évènement) 
+![image](https://github.com/g404-code-gaming/Blop/blob/main/Image/piece_5.JPG)
 
   Il faut tester le jeu pour voir si la partie se relance lorsqu'on rammasse toutes les pièces. Si oui, alors bravo ! 
 
@@ -35,17 +35,17 @@ Pour rammasser les pièces, il nous faut un [évènement](https://github.com/g40
 
   Nous allons d'abord créer un nouveau calque, que nous allons appelé UI. 
 
-  (image calque)
+![image](https://github.com/g404-code-gaming/Blop/blob/main/Image/piece_6.JPG)
 
   Dans ce calque, nous allons ajouter un objet de type Texte, nommé **TextGold**. 
 
-  (image objet texte) 
+![image](https://github.com/g404-code-gaming/Blop/blob/main/Image/piece_7.JPG)
 
   Une fois que le texte est mis sur la scène, il faut lancer l'aperçus pour vérifier qu'il apparait bien où il faut et qu'il suit le personnage correctement. Sinon, il y a une erreur qu'il faut corriger. 
 
   Il ne reste plus qu'à ajouter les actions propre au texte dans les évènements : 
 
-  (image evenement texte) 
+![image](https://github.com/g404-code-gaming/Blop/blob/main/Image/piece_8.JPG)
 
   Et voilà, désormais, on peut rammasser des pièces pour remporter la partie ! 
   
