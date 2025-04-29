@@ -48,4 +48,5 @@ Pour rammasser les pièces, il nous faut un [évènement](https://github.com/g40
 ![image](https://github.com/g404-code-gaming/Blop/blob/main/Image/piece_8.JPG)
 
   Et voilà, désormais, on peut rammasser des pièces pour remporter la partie ! 
-  
+
+  [Partie 4 - Interactions](https://github.com/g404-code-gaming/Blop/blob/main/4%20-%20interactions.md)
