@@ -6,7 +6,11 @@ Passons maintenant aux contrôles du personnage.
 
 ### Déplacements
 
-Pour commencer, ajoutez une variable **Direction** à votre personnage. Cette variable servira à savoir dans quelle direction il doit aller. 
+Pour commencer, ajoutez une [variable](https://github.com/g404-code-gaming/GDevelop_Cour/blob/main/Variables.md) **Direction** à votre personnage. Cette variable servira à savoir dans quelle direction il doit aller. 
+
+Nous allons également faire une variable **Movable**, qui permet de savoir si notre personnage peut bouger ou non.
+
+(image variable)
 
 Ensuite, allez dans la fenêtre des évènements. Commencez à ajouter des évènements permettant de changer la variable **Direction** en fonction de la touche sur laquelle on appuie. 
 
@@ -20,10 +24,14 @@ Une fois que c'est fait, ajoutez les évènements qui déplacent le personnage e
 
 (Image pour les évènements) 
 
-### Séparer le personnage des murs
-
 Et maintenant, le personnage peut se déplacer grâce aux touches que nous avons choisies ! Lancez l'aperçus pour voir ce que ça donne. 
+
+### Séparer le personnage des murs
 
 Les personnages traversent les murs ? pas de panique : il faut rajouter des évènements pour empécher le personnage de traverser les murs. 
 Puisque nous voulons que notre personnage ne puisse jamais traverser les murs, il n'y a pas besoin de condition. 
+
+(image pour les évènements : séparer)
+
+Avec tout ça, nous avons un personnage qui peut se déplacer et qui ne traverse pas les murs. Le Labyrinthe prend vie petit à petit. 
 
