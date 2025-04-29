@@ -27,4 +27,6 @@ Commençons simples ! fait une petite salle avec un couloir : ça fera un bon d�
 
 Une fois que c'est fait, nous allons pouvoirs passer aux mouvements de base du personnage : 
 
+[étape 2 - Contrôle du personnage](https://github.com/g404-code-gaming/Blop/blob/main/2%20-%20Contr%C3%B4le%20du%20personnage.md)
+
 
