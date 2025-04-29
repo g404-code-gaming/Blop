@@ -2,7 +2,7 @@
 
 Passons maintenant aux contrôles du personnage. 
 
-*Le personnage peut se déplacer dans quatre directions : haut, bas, gauche, droite. Lorsque le Joueur choisis d'avancer, le personnage se déplace dans la direction souhaité et ne s'arrête que s'il rencontre un obstacle, obligeant le joueur à être réactif : il faut éviter de tomber dans un piège.*
+>Le personnage peut se déplacer dans quatre directions : haut, bas, gauche, droite. Lorsque le Joueur choisis d'avancer, le personnage se déplace dans la direction souhaité et ne s'arrête que s'il rencontre un obstacle, obligeant le joueur à être réactif : il faut éviter de tomber dans un piège.
 
 ### Déplacements
 
@@ -33,4 +33,4 @@ Puisque nous voulons que notre personnage ne puisse jamais traverser les murs, i
 
 Avec tout ça, nous avons un personnage qui peut se déplacer et qui ne traverse pas les murs. Le Labyrinthe prend vie petit à petit. 
 
-[étape suivante : Gestion des pièces et de la fin de partie](https://github.com/g404-code-gaming/Blop/blob/main/3%20-%20Argent)
+[étape 3 : Gestion des pièces et de la fin de partie](https://github.com/g404-code-gaming/Blop/blob/main/3%20-%20Argent)
