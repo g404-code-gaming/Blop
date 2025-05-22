@@ -37,4 +37,4 @@ Puisque nous voulons que notre personnage ne puisse **jamais** traverser les mur
 Avec tout ça, nous avons un personnage qui peut se déplacer et qui ne traverse pas les murs.  
 Le labyrinthe prend vie petit à petit.
 
-[étape 3 : Gestion des pièces et de la fin de partie](https://github.com/g404-code-gaming/Blop/blob/main/3%20-%20Argent)
+[étape 3 : Gestion des pièces et de la fin de partie](https://github.com/g404-code-gaming/Blop/blob/main/3%20-%20Argent.md)
