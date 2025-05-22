@@ -56,4 +56,4 @@ Utilisez le bloc pour condamner un passage, forçant le joueur à le pousser pou
 
 Voilà ! Vous avez ajouté de la lave pour tuer le personnage, ainsi que des portes et des blocs poussables pour augmenter le défi. Blop commence à devenir un vrai jeu !
 
-[étape 5 - Finalisation](https://github.com/g404-code-gaming/Blop/blob/main/Image/inter_8.JPG)
+[étape 5 - Finalisation](https://github.com/g404-code-gaming/Blop/blob/main/5%20-%20fin.md)
